@@ -8,6 +8,7 @@ title: Methodology Assignment 4
 **Email:** jcollins@ucsd.edu  
 
 **Section:** B16
+
 **Mentor:** Abed El-Husseini, Balaji Veeramani
 
 **What is the most interesting topic covered in your domain this quarter?**  
